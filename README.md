@@ -1,4 +1,4 @@
-# CODSOFT
+# CALCULATOR 
 Hello Visitor!
 In this basic calculator,i have done many error handling:
 
